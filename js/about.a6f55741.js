@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["about"],{"71ba":function(c,n,s){"use strict";s.r(n);var t=s("7a23"),a={class:"dashboard"},e=Object(t["d"])("div",{class:"location"},[Object(t["d"])("h4",null,"発注書登録")],-1),o=Object(t["d"])("div",{class:"contBox"}," This is 発注書登録 page ",-1),d=[e,o];function b(c,n){return Object(t["p"])(),Object(t["c"])("section",a,d)}var i=s("6b0d"),r=s.n(i);const u={},l=r()(u,[["render",b]]);n["default"]=l}}]);
+//# sourceMappingURL=about.a6f55741.js.map
